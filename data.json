@@ -1,0 +1,52 @@
+[{
+        "id": 1,
+        "symbol": "clubs",
+        "number": "4"
+    },
+    {
+        "id": 2,
+        "symbol": "hearts",
+        "number": "2"
+    },
+    {
+        "id": 3,
+        "symbol": "diamonds",
+        "number": "7"
+    },
+    {
+        "id": 4,
+        "symbol": "clubs",
+        "number": "3"
+    },
+    {
+        "id": 5,
+        "symbol": "hearts",
+        "number": "4"
+    },
+    {
+        "id": 6,
+        "symbol": "diamonds",
+        "number": "6"
+    },
+    {
+        "id": 7,
+        "symbol": "pics",
+        "number": "1"
+    },
+    {
+        "id": 8,
+        "symbol": "hearts",
+        "number": "5"
+    },
+    {
+        "id": 9,
+        "symbol": "pics",
+        "number": "9"
+    },
+    {
+        "id": 10,
+        "symbol": "pics",
+        "number": "2"
+    }
+
+]
